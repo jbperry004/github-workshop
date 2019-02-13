@@ -6,3 +6,7 @@ Welcome!
 Hello!
 
 This is my commitee!
+
+This is a new line.
+
+This is another new line. 
